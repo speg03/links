@@ -1,3 +1,4 @@
 # https://docs.netlify.com/routing/redirects/
 
+/memo  https://speg03.notion.site/memo-0c35bbf507ce4f06adf75b6a08b22dec
 /setup https://raw.githubusercontent.com/speg03/dotfiles/master/setup.sh
